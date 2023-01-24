@@ -48,6 +48,8 @@ has signed the Contributor Agreement.
 We use a translation tool called [Crowdin](https://crowdin.com) to help manage our localization
 efforts across many different languages.
 
+To get started, visit [bitwarden.com/translate](https://bitwarden.com/translate) to learn about the project, including how to use the localization glossary. 
+
 If you are interested in helping translate the Bitwarden applications into another language (or make
 a translation correction), please register an account at Crowdin and join our projects here:
 
